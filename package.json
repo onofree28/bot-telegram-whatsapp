@@ -4,7 +4,7 @@
   "main": "getGroupId.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node seu-bot.js"
+    "start": "node getGroupId.js"
   },
   "keywords": [],
   "author": "",
